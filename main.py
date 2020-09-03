@@ -1,10 +1,4 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# In[ ]:
-
-
-# created by Matthew Mullen, followed consultation model where we talked about algorithms to solve (using bools to sort out turns and using getter functions)
+# created by Matthew Mullen
 from UltimateMetaTTT import NumTicTacToe, MetaTicTacToe, ClassicTicTacToe
 
 
