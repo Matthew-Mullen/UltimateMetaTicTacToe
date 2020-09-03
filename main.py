@@ -4,7 +4,7 @@
 # In[ ]:
 
 
-# created by anh le, collaborated with Matthew Mullen, followed consultation model where we talked about algorithms to solve (using bools to sort out turns and using getter functions)
+# created by Matthew Mullen, followed consultation model where we talked about algorithms to solve (using bools to sort out turns and using getter functions)
 from UltimateMetaTTT import NumTicTacToe, MetaTicTacToe, ClassicTicTacToe
 
 
@@ -205,13 +205,4 @@ def main():
         if play_again()==True:
             play=True            
 main()            
-
-
-
-
-
-# In[ ]:
-
-
-
 
